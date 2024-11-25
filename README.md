@@ -1,3 +1,4 @@
+
 # **Password Manager**
 
 The **Password Manager** is a Python-based project designed to securely store, encrypt, and retrieve user passwords. By leveraging the `cryptography` library, this tool ensures that all stored passwords are encrypted and accessible only with the correct encryption key. This project highlights essential skills in security-focused programming, including encryption, file management, and secure storage practices.
@@ -65,3 +66,4 @@ Service: Facebook, Password: SecurePass123!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
