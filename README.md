@@ -44,7 +44,7 @@ To get started, follow these steps:
 3. Exit:
     - Quit the program.
 
-##Example Output
+## Example Output
 
 Password Manager
 1. Save a new password
@@ -62,5 +62,6 @@ Password Manager
 Enter your choice: 2
 Service: Facebook, Password: SecurePass123!
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
